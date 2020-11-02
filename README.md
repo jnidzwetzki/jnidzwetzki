@@ -6,7 +6,7 @@ I am Jan, software developer with a focus on distributed databases and distribut
 
 - 🌱 I’m also maintaining [SECONDO](http://dna.fernuni-hagen.de/secondo/) - an extensible database management system developed at the university at Hagen. See [Distributed SECONDO](http://dna.fernuni-hagen.de/secondo/DSecondo/DSECONDO-Website/index.html) a [distributed version](https://link.springer.com/chapter/10.1007/978-3-319-22363-6_28) of SECONDO.
 
-- 📚 I am the author of the book [Entwicklung eines skalierbaren und verteilten Datenbanksystems](https://www.springer.com/de/book/9783658124434) (my master thesis, awarded as outstanding work and available as a book). 
+- 📚 I am the author of the book [Entwicklung eines skalierbaren und verteilten Datenbanksystems](https://www.springer.com/de/book/9783658124434) (my master thesis, awarded as outstanding work and available as a book published by Springer). 
 
 - 💬 I also talked at international conferences (SSTD, IEEE BigData, CIKM, ...) about databases and published some peer-reviewed  scientific papers. Have a look at my [Demo Paper](https://ieeexplore.ieee.org/document/9005999), which won the IEEE best demo- and short paper award at the [BSD2019](http://cse.ucdenver.edu/~BSD2019/).
 
