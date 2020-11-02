@@ -4,7 +4,7 @@ I am Jan, software developer with a focus on distributed databases and distribut
 
 - 🔭 I’m currently working on [BBoxDB](https://bboxdb.org) a distrbuted key-bounding-box-value store (see [full paper](https://link.springer.com/article/10.1007/s10619-019-07275-w)) (part of my PhD thesis).
 
-- 🌱 I’m also maintaining [SECONDO](http://dna.fernuni-hagen.de/secondo/) - an extensible database management system developed at the university at Hagen. See [Distributed SECONDO](http://dna.fernuni-hagen.de/secondo/DSecondo/DSECONDO-Website/index.html) a [distributed version](https://link.springer.com/chapter/10.1007/978-3-319-22363-6_28) of SECONDO.
+- 🌱 I’m also maintaining [SECONDO](http://dna.fernuni-hagen.de/secondo/) - an extensible database management system, developed at the university at Hagen. See [Distributed SECONDO](http://dna.fernuni-hagen.de/secondo/DSecondo/DSECONDO-Website/index.html) a [distributed version](https://link.springer.com/chapter/10.1007/978-3-319-22363-6_28) of SECONDO.
 
 - 📚 I am the author of the book [Entwicklung eines skalierbaren und verteilten Datenbanksystems](https://www.springer.com/de/book/9783658124434) (my master thesis, awarded as outstanding work and available as a book published by Springer). 
 
