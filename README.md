@@ -12,7 +12,7 @@ I am Jan, software developer with a focus on distributed databases and distribut
 
 - 🤔 I’m looking for help on my [MySQL highly-available cloud container orchestrator](https://github.com/jnidzwetzki/mysql-ha-cloud).
 
-- 📫 How to reach me: jn@achfrag.net
+- 📫 How to reach me: jnidzwetzki@gmx.de 
 
 - 😄 Pronouns: he/him
 
