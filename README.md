@@ -8,7 +8,7 @@ I am Jan, software developer and computer scientist with a focus on distributed 
 
 - 📚 I am the author of the book [Entwicklung eines skalierbaren und verteilten Datenbanksystems](https://www.springer.com/de/book/9783658124434) (my master thesis, awarded as outstanding work and available as a book published by Springer). 
 
-- 💬 I also talked at international conferences ([SSTD](http://sstd2015.org/), [IEEE BigData](http://cse.ucdenver.edu/~BSD2019/), [CIKM](https://www.cikm2018.units.it/), [EDBT](https://edbticdt2021.cs.ucy.ac.cy/), ...) about databases and published some peer-reviewed  scientific papers. Have a look at my [Demo Paper](https://ieeexplore.ieee.org/document/9005999), which won the IEEE best demo- and short paper award at the [BSD2019](http://cse.ucdenver.edu/~BSD2019/). See also my EDBT [Paper](https://edbt2021proceedings.github.io/docs/p170.pdf), available as open access publication.
+- 💬 I also talked at international conferences ([SSTD](http://sstd2015.org/), [IEEE BigData](http://cse.ucdenver.edu/~BSD2019/), [CIKM](https://www.cikm2018.units.it/), [EDBT](https://edbticdt2021.cs.ucy.ac.cy/), ...) about databases and published some peer-reviewed  scientific papers. Have a look at my [Demo Paper](https://ieeexplore.ieee.org/document/9005999), which won the IEEE best demo- and short paper award at the [BSD2019](http://cse.ucdenver.edu/~BSD2019/). See also my recent EDBT [Paper](https://edbt2021proceedings.github.io/docs/p170.pdf), available as open access publication.
 
 - 🤔 I’m looking for help on my [MySQL highly-available cloud container orchestrator](https://github.com/jnidzwetzki/mysql-ha-cloud).
 
