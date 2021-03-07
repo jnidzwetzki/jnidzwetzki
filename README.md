@@ -14,11 +14,12 @@ I am Jan, software developer and computer scientist with a focus on distributed 
 
 - 📫 How to reach me: jnidzwetzki@gmx.de 
 
-- 😄 Pronouns: he/him
-
 - ⚡ Fun fact: My first installed Linux Distribution was a SuSE 6.1 (Kernel 2.2.6) in 1999, and my first computer was a Pentium 1 with 100 MHz and 16 MB RAM running Windows 95.
 
 <!--
+
+- 😄 Pronouns: he/him
+
 **jnidzwetzki/jnidzwetzki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -161,6 +162,6 @@ Quelle: <a href="https://www.e-recht24.de/impressum-generator.html">https://www.
       sind nicht bestimmten Personen zuordenbar. Eine Zusammenf&uuml;hrung dieser Daten mit anderen
       Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachtr&auml;glich zu
       pr&uuml;fen, wenn uns konkrete Anhaltspunkte f&uuml;r eine rechtswidrige Nutzung bekannt
-      werden.</p><p>&nbsp;</p> <p>&nbsp;</p> <p>Quelle: <a
+      werden.</p> <p>Quelle: <a
       href="https://www.e-recht24.de">eRecht24</a></p>
 
