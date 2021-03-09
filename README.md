@@ -53,7 +53,7 @@ In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I grad
 * Distributed SECONDO: An extensible and scalable database management system - [Distributed and Parallel Databases](https://link.springer.com/article/10.1007%2Fs10619-017-7198-9)
 * DISTRIBUTED SECONDO: An extensible highly available and scalable database management system - [Technical Report 2016](https://www.fernuni-hagen.de/imperia/md/content/fakultaetfuermathematikundinformatik/forschung/berichte/bericht_371.pdf)
 * Distributed SECONDO: A Highly Available and Scalable System for Spatial Data Processing [SSTD 2015](https://link.springer.com/chapter/10.1007%2F978-3-319-22363-6_28)
-* Distributed SECONDO - A Distributed DBMS based on SECONDO and Apache Cassandata (My Master Thesis)
+* Distributed SECONDO - A Distributed DBMS based on SECONDO and Apache Cassandata ([My Master Thesis](https://www.springer.com/de/book/9783658124434))
 * Operator Cost Models for Progress-Esimation and Optimization in Database Systems (My Bachelor Thesis)
 
 # More about me
