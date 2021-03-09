@@ -46,7 +46,7 @@ In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I grad
 
 * BBoxDB Streams: Distributed Processing of Real-World Streams of Position Data - [EDBT 2021](https://edbt2021proceedings.github.io/docs/p170.pdf)
 * BBoxDB: a distributed and highly available key-bounding-box-value store - [Distributed and Parallel Databases 2020](https://link.springer.com/article/10.1007/s10619-019-07275-w)
-* Demo Paper: Large Scale Spatial Data Processing With User Defined Filters In BBoxDB - [IEEE Big Spatial Data 2019](https://ieeexplore.ieee.org/document/9005999) / [Poster](cikm2019_poster.pdf)
+* Demo Paper: Large Scale Spatial Data Processing With User Defined Filters In BBoxDB - [IEEE Big Spatial Data 2019](https://ieeexplore.ieee.org/document/9005999) / [Poster](bsd2019_poster.pdf)
 * BBoxDB - A Scalable Data Store for Multi-Dimensional Big Data - [CIKM 2018](https://dl.acm.org/citation.cfm?id=3269208) / [Poster](cikm2018_poster.pdf)
 * BBoxDB - A Distributed and Highly Available Key-Bounding-Box-Value Store - [Technical Report 2018](https://ub-deposit.fernuni-hagen.de/receive/mir_mods_00001277)
 * Distributed SECONDO: An extensible and scalable database management system - [Distributed and Parallel Databases 2017](https://link.springer.com/article/10.1007%2Fs10619-017-7198-9)
