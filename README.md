@@ -64,5 +64,5 @@ In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I grad
 
 # Misc
 
-[GPG Key](gpg.md)
-[Contact / Imprint](imprint.md)
+* [GPG Key](gpg.md)
+* [Contact / Imprint](imprint.md)
