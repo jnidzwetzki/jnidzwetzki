@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jan, software developer and computer scientist with a focus on distributed databases and distributed systems. I am 35 years old, live in Berlin (Germany), and work for around 18 years in IT. I worked as system administrator, network administrator, software developer, and CTO. I am also a PhD student at the University of Hagen. 
+I am Jan, software developer and computer scientist with a focus on distributed databases and distributed systems. I am 36 years old, live in Berlin (Germany), and work for around 18 years in IT. I worked as system administrator, network administrator, software developer, and CTO. I am also a PhD student at the University of Hagen. 
 
 - 🔭 I’m currently working on [BBoxDB](https://bboxdb.org) a distrbuted key-bounding-box-value store (see [full paper](https://link.springer.com/article/10.1007/s10619-019-07275-w)) (part of my PhD thesis).
 
@@ -44,7 +44,7 @@ In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I grad
 
 # Selected Publications
 
-* BBoxDB Streams: Distributed Processing of Real-World Streams of Position Data - [EDBT 2021](https://edbt2021proceedings.github.io/docs/p170.pdf)
+* BBoxDB Streams: Distributed Processing of Real-World Streams of Position Data - [EDBT 2021](https://edbt2021proceedings.github.io/docs/p170.pdf) / [Slides](bboxdb_streams_edbt2021_slides.pdf)
 * BBoxDB: a distributed and highly available key-bounding-box-value store - [Distributed and Parallel Databases 2020](https://link.springer.com/article/10.1007/s10619-019-07275-w)
 * Demo Paper: Large Scale Spatial Data Processing With User Defined Filters In BBoxDB - [IEEE Big Spatial Data 2019](https://ieeexplore.ieee.org/document/9005999) / [Poster](bsd2019_poster.pdf)
 * BBoxDB - A Scalable Data Store for Multi-Dimensional Big Data - [CIKM 2018](https://dl.acm.org/citation.cfm?id=3269208) / [Poster](cikm2018_poster.pdf)
