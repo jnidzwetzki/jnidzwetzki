@@ -36,11 +36,11 @@ In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I grad
 # My interests
 
 * Database systems
-* Operating Systems
+* Operating systems
 * Distributed, scalable and fault-tolerant systems
-* Computer Networks
+* Computer networks
 * Transactions and parallelism
-* Economics, Financial Markets and Algorithmic Trading Systems
+* Economics, financial markets and algorithmic trading systems
 
 # Selected Publications
 
