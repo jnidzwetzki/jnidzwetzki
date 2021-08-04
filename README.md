@@ -61,7 +61,7 @@ In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I grad
 # More about me
 
 * [Xing](https://www.xing.com/profile/JanKristof_Nidzwetzki)
-* [LinkedIn](https://www.linkedin.com/in/jknidzwetzki/)
+* [LinkedIn](https://www.linkedin.com/in/jnidzwetzki/)
 * [ResearchGate](https://www.researchgate.net/profile/Jan_Nidzwetzki)
 
 # Misc
