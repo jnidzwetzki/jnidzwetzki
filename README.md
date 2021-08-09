@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jan, software developer and computer scientist with a focus on distributed databases and distributed systems. I am 36 years old, live in Berlin (Germany), and work for around 18 years in IT. I worked as system administrator, network administrator, software developer, and CTO. I am also a PhD student at the University of Hagen. 
+I am Jan, a software developer and computer scientist with a focus on distributed databases and distributed systems. I am 36 years old, live in Berlin (Germany), and work for around 18 years in IT. I worked as a system administrator, network administrator, software developer, and CTO. At the moment, I am finishing my PhD (distributed databases) at the University of Hagen.
 
 - 🔭 I’m currently working on [BBoxDB](https://bboxdb.org) a distrbuted key-bounding-box-value store (see [full paper](https://link.springer.com/article/10.1007/s10619-019-07275-w)) (part of my PhD thesis).
 
