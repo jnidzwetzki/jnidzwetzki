@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 In the period from 2002 - 2005 I completed an apprenticeship as IT specialist for system integration. From 2006 - 2009 I took part in the DAA technical school, parallel to my job, in a training course for technical informatics. I successfully completed this course in 2009 as Staatlich geprüfter Informatiker (State-Certified Computer Scientist). Between 2009 and 2014 I was already enrolled at the FernUniversität in Hagen. There I studied computer science as an academy, bachelor and master student.
 
-In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I graduated as a Master of Science in Computer Science. My areas of specialization were: Operating Systems, Distributed and Cooperative Systems. In the years 2012 - 2014 I was also a student assistant at the Chair of Cooperative Systems for the courses Operating Systems, Distributed Systems and Computational Geometry.
+In 2012 I graduated as a Bachelor of Science in Computer Science, in 2014 I graduated as a Master of Science in Computer Science with the focus on: Operating Systems, Distributed and Cooperative Systems. In the years 2012 - 2014 I was also a student assistant at the Chair of Cooperative Systems for the courses Operating Systems, Distributed Systems and Computational Geometry.
 
 # My interests
 
