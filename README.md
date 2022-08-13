@@ -12,4 +12,9 @@ I am Jan, a software developer and computer scientist with a focus on distribute
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Backup your Data encrypted to AWS S3 using Duplicity](https://jnidzwetzki.github.io/2022/08/07/backup-to-s3-with-duplicity.html)
+- [Processing Intervals and Hyperrectangles in Java with BBoxDB Commons](https://jnidzwetzki.github.io/2022/08/05/intervals-and-hyperrectangles-java-bboxdb.html)
+- [Memory Contexts in PostgreSQL](https://jnidzwetzki.github.io/2022/05/28/postgres-memory-context.html)
+- [Activating Asserts in PostgreSQL](https://jnidzwetzki.github.io/2022/03/08/postgres-with-assert.html)
+- [Install Kubernetes using Ansible / Kubeadm](https://jnidzwetzki.github.io/2022/02/02/install-kubernetes.html)
 <!-- BLOG-POST-LIST:END -->
