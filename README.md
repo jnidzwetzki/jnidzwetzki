@@ -9,3 +9,7 @@ I am Jan, a software developer and computer scientist with a focus on distribute
 - 📫 How to reach me: jnidzwetzki@gmx.de 
 
 - ⚡ Fun fact: My first installed Linux Distribution was a SuSE 6.1 (Kernel 2.2.6) in 1999, and my first computer was a Pentium 1 with 100 MHz and 16 MB RAM running Windows 95.
+
+# 📝 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
