@@ -12,9 +12,9 @@ I am Jan, a software developer and computer scientist with a focus on distribute
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Measuring and visualizing I/O latency with ioping and gnuplot](https://jnidzwetzki.github.io/2022/09/21/measuring-io-latency-with-ioping.html)
 - [A HTTPs reverse proxy for Docker with Traefik and Let’s encrypt](https://jnidzwetzki.github.io/2022/08/27/https-reverse-proxy-with-docker-traefik-and-lets-encrypt.html)
 - [Backup your Data encrypted to AWS S3 using Duplicity](https://jnidzwetzki.github.io/2022/08/07/backup-to-s3-with-duplicity.html)
 - [Processing Intervals and Hyperrectangles in Java with BBoxDB Commons](https://jnidzwetzki.github.io/2022/08/05/intervals-and-hyperrectangles-java-bboxdb.html)
 - [Memory Contexts in PostgreSQL](https://jnidzwetzki.github.io/2022/05/28/postgres-memory-context.html)
-- [Activating Asserts in PostgreSQL](https://jnidzwetzki.github.io/2022/03/08/postgres-with-assert.html)
 <!-- BLOG-POST-LIST:END -->
