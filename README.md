@@ -28,6 +28,6 @@ I am Jan, a software developer and computer scientist with a focus on distribute
 - [Backup your Data encrypted to AWS S3 using Duplicity](https://jnidzwetzki.github.io/2022/08/07/backup-to-s3-with-duplicity.html)
 <!-- BLOG-POST-LIST:END -->
 
-### Statistics
+### ✅ Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jnidzwetzki&theme=github) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jnidzwetzki&theme=github) 
