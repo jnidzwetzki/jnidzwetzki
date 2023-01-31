@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Website](https://img.shields.io/badge/Website-jnidzwetzki.github.io-green?style=flat-square)](http://jnidzwetzki.github.io)
-[![ReserchGate](https://img.shields.io/badge/ResearchGate-JanNidzwetzki-green?style=flat-square)](https://www.researchgate.net/profile/Jan-Nidzwetzki)
+[![ReserchGate](https://img.shields.io/badge/-JanNidzwetzki-gray?style=flat-square&logo=ResearchGate)](https://www.researchgate.net/profile/Jan-Nidzwetzki)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-gray?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8u8bUJYAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin)](https://xing.com/profile/Jan_Nidzwetzki)
 [![Mail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:jnidzwetzki@gmx.de)
