@@ -22,11 +22,11 @@ I am Jan, a software developer and computer scientist with a focus on distribute
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trace PostgreSQL Row-Level Locks with pg_row_lock_tracer](https://jnidzwetzki.github.io/2024/02/28/trace-postgresql-row-level-locks.html)
 - [Index the PostgreSQL source code with Elixir](https://jnidzwetzki.github.io/2024/01/11/index-postgresql-source-code-with-elixir.html)
 - [Using Bpftrace to Trace PostgreSQL Vacuum Operations](https://jnidzwetzki.github.io/2023/08/23/using-bpftrace-to-trace-postgresql.html)
 - [GDB Pretty Print Extension for PostgreSQL Bitmapsets](https://jnidzwetzki.github.io/2023/04/09/gdb-pretty-print-for-postgresql-bitmapset.html)
 - [Trace PostgreSQL LWLocks with pg_lw_lock_tracer](https://jnidzwetzki.github.io/2023/01/17/trace-postgresql-lw-locks.html)
-- [Trace PostgreSQL locks with pg_lock_tracer](https://jnidzwetzki.github.io/2023/01/11/trace-postgresql-locks-with-pg-lock-tracer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✅ Statistics
