@@ -8,13 +8,11 @@
 
 
 
-I am Jan, a software developer and computer scientist with a focus on distributed databases and distributed systems. 
+I am Jan, a software developer and computer scientist with a focus on (distributed) databases. 
 
-- ⛁ I’m currently working on [BBoxDB](https://bboxdb.org) - a distributed key-bounding-box-value database for multi-dimensional data implemented from scratch. 
+- ⛁ I’m currently working on [PostgreSQL Lock Tracer](https://github.com/jnidzwetzki/pg-lock-tracer/) - a tool collection to gain deep insights into PostgreSQL's locking activities and troubleshoot performance-related issues.
 
-- 🔭 In addition, I work actively on [PostgreSQL Lock Tracer](https://github.com/jnidzwetzki/pg-lock-tracer/) - a tool collection to gain deep insights into PostgreSQL's locking activities and troubleshoot performance-related issues.
-
-- 🌍 You can find more about my and my projects on my [website](https://jnidzwetzki.github.io/about/)
+- 🌍 You can find more about me and my projects on my [website](https://jnidzwetzki.github.io/about/)
 
 - 📫 How to reach me: [jnidzwetzki@gmx.de](mailto:jnidzwetzki@gmx.de)
 
