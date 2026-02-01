@@ -12,6 +12,8 @@ I am Jan, a software developer and computer scientist with a focus on (distribut
 
 - ⛁ I’m currently working on [PostgreSQL Lock Tracer](https://github.com/jnidzwetzki/pg-lock-tracer/) - a tool collection to gain deep insights into PostgreSQL's locking activities and troubleshoot performance-related issues.
 
+- 🎓 Previously, I was active in database research and have created systems like [BBoxDB](https://bboxdb.org/) or [Distributed SECONDO](https://secondo-database.github.io/DSecondo/DSECONDO-Website/index.html)
+
 - 🌍 You can find more about me and my projects on my [website](https://jnidzwetzki.github.io/about/)
 
 - 📫 How to reach me: [jnidzwetzki@gmx.de](mailto:jnidzwetzki@gmx.de)
