@@ -22,11 +22,11 @@ I am Jan, a software developer and computer scientist with a focus on (distribut
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [eBPF Tracing of PostgreSQL Spinlocks](https://jnidzwetzki.github.io/2026/02/08/postgresql-spinlocks.html)
 - [Analyzing PostgreSQL Performance Using Flame Graphs](https://jnidzwetzki.github.io/2025/07/05/postgresql-flamegraph.html)
 - [The Art of SQL Query Optimization](https://jnidzwetzki.github.io/2025/06/03/art-of-query-optimization.html)
 - [Building a Query Plan Explorer using GitHub Copilot](https://jnidzwetzki.github.io/2025/05/18/building-a-query-plan-explorer.html)
 - [Introduction to Snapshots and Tuple Visibility in PostgreSQL](https://jnidzwetzki.github.io/2024/04/03/postgres-and-snapshots.html)
-- [Trace PostgreSQL Row-Level Locks with pg_row_lock_tracer](https://jnidzwetzki.github.io/2024/02/28/trace-postgresql-row-level-locks.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✅ Statistics
