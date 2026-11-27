@@ -22,11 +22,11 @@ I am Jan, a software developer and computer scientist with a focus on (distribut
 
 ### 📝 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Barriers, Volatile, and Atomics: How PostgreSQL Orders Memory Accesses](https://jnidzwetzki.github.io/2026/11/26/memory-ordering-postgresql.html)
 - [Tracing PostgreSQL Using eBPF and Hardware Breakpoints](https://jnidzwetzki.github.io/2026/05/08/ebpf-hw-breakpoints-postgresql.html)
 - [pg_plan_alternatives: Tracing PostgreSQL’s Query Plan Alternatives using eBPF](https://jnidzwetzki.github.io/2026/03/04/pg-plan-alternatives.html)
 - [eBPF Tracing of PostgreSQL Spinlocks](https://jnidzwetzki.github.io/2026/02/08/postgresql-spinlocks.html)
 - [Analyzing PostgreSQL Performance Using Flame Graphs](https://jnidzwetzki.github.io/2025/07/05/postgresql-flamegraph.html)
-- [The Art of SQL Query Optimization](https://jnidzwetzki.github.io/2025/06/03/art-of-query-optimization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✅ Statistics
